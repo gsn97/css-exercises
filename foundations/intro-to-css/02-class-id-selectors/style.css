@@ -1,0 +1,16 @@
+.pink {
+    background-color:lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#div1 {
+    color: blue;
+    font-size: 32px;
+}
+.largefont {
+    font-size: 24px;
+}
+#div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
